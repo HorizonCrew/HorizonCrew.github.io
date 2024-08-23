@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba400b72.css",
+    "main.js": "/static/js/main.93d31c3b.js",
+    "static/media/rayn1_orig.avif": "/static/media/rayn1_orig.2fcbf4ef38a2db079edf.avif",
+    "static/media/landing-compressed.avif": "/static/media/landing-compressed.1cba629bb93c260f79e3.avif",
+    "static/media/group-orig.avif": "/static/media/group-orig.7b4d098818d83d742ae2.avif",
+    "static/media/santa1.jpg": "/static/media/santa1.0da0b6dd27d986922e33.jpg",
+    "static/media/landing-dirty.avif": "/static/media/landing-dirty.dfb740695008eb1b1070.avif",
+    "static/media/rayn1_alt.avif": "/static/media/rayn1_alt.8bfdc209fea0b3501f58.avif",
+    "static/media/nos1_80.avif": "/static/media/nos1_80.c84efb0e2053fd44fddf.avif",
+    "static/media/nikko1_80.avif": "/static/media/nikko1_80.004cd8039fa76c95f069.avif",
+    "static/media/group-alt.avif": "/static/media/group-alt.dcc2519edc7437a2f67d.avif",
+    "static/media/sign.svg": "/static/media/sign.d24425906e9588097a6cf2d65d373d65.svg",
+    "static/media/nos1_50.avif": "/static/media/nos1_50.0980769d94d5b6235d41.avif",
+    "static/media/nikko1_50.avif": "/static/media/nikko1_50.88f078e731d58f1f23e1.avif",
+    "static/media/stick.avif": "/static/media/stick.115c195d187775d784b7.avif",
+    "static/media/rarrow.svg": "/static/media/rarrow.ede37ed99f8eb673691502b0279c6feb.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ba400b72.css",
+    "static/js/main.93d31c3b.js"
+  ]
+}
